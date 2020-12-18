@@ -358,6 +358,7 @@ export class TwaGenerator {
       generateShortcuts: twaManifest.generateShortcuts,
       escapeJsonString: escapeJsonString,
       toAndroidScreenOrientation: toAndroidScreenOrientation,
+      androidwindowSoftInputMode: androidwindowSoftInputMode,
     };
 
     // Generate templated files
